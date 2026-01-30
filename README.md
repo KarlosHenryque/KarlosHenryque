@@ -1,6 +1,5 @@
-## Hi 👋, I'm Karlos Henryque
+# Hi 👋, I'm Karlos Henryque
 
-<!--
 🚀 **Juniro Software Engineer | Java & Javascript & Python**  
 🇧🇷 Brazil
 
@@ -78,4 +77,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
--->
