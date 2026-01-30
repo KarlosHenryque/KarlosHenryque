@@ -53,11 +53,18 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-|--------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlosHenryque&show_icons=true&theme=tokyonight&count_private=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlosHenryque&layout=compact&theme=tokyonight) |
-
----
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlosHenryqueh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=KarlosHenryqueh&show_icons=true&theme=tokyonight&count_private=true" 
+  />
+</div>
 
 ## 🚀 Philosophy
 
